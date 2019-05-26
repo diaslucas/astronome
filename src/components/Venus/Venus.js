@@ -5,7 +5,7 @@ import venusImg from './Venus.jpg'
 export default class Venus extends Component {
   render() {
     return (
-      <div className="venus">
+      <div className="planet venus">
         <img
           src={venusImg}
           alt="Venus"

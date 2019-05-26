@@ -5,7 +5,7 @@ import uranusImg from './Uranus.jpg'
 export default class Uranus extends Component {
   render() {
     return (
-      <div className="uranus">
+      <div className="planet uranus">
         <img
           src={uranusImg}
           alt="Uranus"

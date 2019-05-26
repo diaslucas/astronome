@@ -5,7 +5,7 @@ import marsImg from './Mars.jpg'
 export default class Mars extends Component {
   render() {
     return (
-      <div className="mars">
+      <div className="planet mars">
         <img
           src={marsImg}
           alt="Mars"

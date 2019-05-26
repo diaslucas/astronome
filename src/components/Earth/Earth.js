@@ -5,7 +5,7 @@ import earthImg from './Earth.jpg'
 export default class Earth extends Component {
   render() {
     return (
-      <div className="earth">
+      <div className="planet earth">
         <img
           src={earthImg}
           alt="Earth"

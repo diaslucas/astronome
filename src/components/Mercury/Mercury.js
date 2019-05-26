@@ -5,7 +5,7 @@ import mercuryImg from './Mercury.jpg'
 export default class Mercury extends Component {
   render() {
     return (
-      <div className="mercury">
+      <div className="planet mercury">
         <img
           src={mercuryImg}
           alt="Mercury"
