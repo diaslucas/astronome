@@ -1,0 +1,24 @@
+.milky-way {
+  transition: all 2s;
+}
+
+.milky-way img {
+  display: block;
+  margin: 0 auto;
+}
+
+.milky-way:hover {
+  cursor: pointer;
+}
+
+.galaxy-efect {
+  transform: scale(5);
+  opacity: 0;
+}
+
+.astros-box {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
